@@ -1,0 +1,15 @@
+@media(max-width: 1440px){
+    body{
+     padding: 0 40px;
+    }
+}
+
+@media (max-width: 375px) {
+    .container{
+        display: flex;
+        flex-direction: column;   
+        padding: 40px;      
+    }    
+    
+}
+
